@@ -822,7 +822,8 @@ padding: 0 5px;
 
 .skills{
     background-image: url("../images/skills-bg.jpg");
-    height: 100vh;
+    height: auto;
+    /* height: 100vh; */
     background-repeat: no-repeat;
     background-size: cover;
 }
